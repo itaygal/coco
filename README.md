@@ -3,7 +3,9 @@ This is my voice recognition python project.
 It uses Google Web Speech API for voice to text.
 It uses my algorithm for matching user request to specific commands (uses gensim word2vec model)
 user request must contain the coco key word. 
-	For example : "coco download song"
+	
+		For example : "coco download song"
+
 This is user voice command will be matched to the most similar command (using command key words).
 
 
